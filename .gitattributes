@@ -1,2 +1,8 @@
 tweets_results/texts_topic_proportions.csv filter=lfs diff=lfs merge=lfs -text
 speeches_results/texts_topic_proportions.csv filter=lfs diff=lfs merge=lfs -text
+tbip/data/floor_speeches_congs_115_116/finalized_tbip_speech_set_raw_original_data_floor_speeches_house.csv filter=lfs diff=lfs merge=lfs -text
+tbip/data/floor_speeches_congs_115_116/raw_original_data_floor_speeches_house.csv filter=lfs diff=lfs merge=lfs -text
+tbip/data/floor_speeches_congs_115_116/clean/raw_documents.txt filter=lfs diff=lfs merge=lfs -text
+tbip/data/tweets_cong_115_116/all_tweets_df.csv filter=lfs diff=lfs merge=lfs -text
+tbip/data/tweets_cong_115_116/relevant_twitter_data.csv filter=lfs diff=lfs merge=lfs -text
+tbip/data/tweets_cong_115_116/finalized_tbip_tweets_sampled.csv filter=lfs diff=lfs merge=lfs -text

@@ -1,0 +1,1 @@
+salloc --constraint=gpu-small --exclusive srun /workspace/.conda/envs/tbip/bin/python pytorch/tbip_issue_specific.py --data=synthetic --num_topics=3 --max_steps=40000 --counts_transformation=log batch_size=3
